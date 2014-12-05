@@ -53,7 +53,7 @@ node* loopstart1(node *head){
     return head;
 }
 int main(){
-    int n = 10, m = 9;// m<n
+    int n = 10, m = 3;  // m<n 
     int a[] = {
         3, 2, 1, 3, 5, 6, 2, 6, 3, 1 
     };
